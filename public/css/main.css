@@ -1,0 +1,14 @@
+html, body, label, a,p, li, h1, h2, h3, h4, h5, h6, td, th
+{
+	font-family: 'Raleway', sans-serif;
+}
+div#caption-side: {
+	background-color: #d9d9d9;
+}
+#shortDescription
+{
+	text-shadow: 1px 1px #fff;
+	padding: 5px 0 5px 10px;
+	font-size: 17px;
+}
+label{font-size: 22px;}
